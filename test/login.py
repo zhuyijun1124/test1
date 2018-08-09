@@ -7,3 +7,4 @@ num3=30
 num4=40
 num6=1
 num5=50
+num=100
